@@ -33,6 +33,7 @@ uvicorn main:app --reload
 ```
 
 ## Project Structure:
+```bash
 atutorbot/
 ├── backend/
 │   ├── main.py
@@ -57,3 +58,4 @@ atutorbot/
 │
 ├── .gitignore
 ├── README.md
+```
