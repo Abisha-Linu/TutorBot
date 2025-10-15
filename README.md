@@ -59,3 +59,9 @@ atutorbot/
 ├── .gitignore
 ├── README.md
 ```
+## Hackathon:
+  This project was developed for StarHacks 2025 – Innovating the Future with AI Agents, a global hackathon exploring the potential of autonomous AI systems.
+
+## Preview:
+
+<img width="1913" height="1012" alt="Screenshot 2025-10-15 131821" src="https://github.com/user-attachments/assets/b14e6cdc-eb8f-4841-a660-7322ec688484" />
