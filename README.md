@@ -1,23 +1,25 @@
-# TutorBot
+# TutorBot:
 
 TutorBot is an AI-powered interactive learning assistant designed to help students get instant answers and explanations.  
 Built for **StarHacks 2025**, this project combines a simple frontend UI with a powerful backend chatbot.
 
-
-##  Features
+## Team Members:
+- [Abisha Linu](https://github.com/Abisha-Linu)
+- [Lakshanya](https://github.com/Lakshanya08)
+##  Features:
 -  Real-time chatbot for question answering  
 -  Fast frontend built with React + Tailwind CSS  
 -  AI backend powered by FastAPI  
 -  Responsive design for smooth UX
 
 
-##  Tech Stack
+##  Tech Stack:
 - **Frontend**: React, Vite, Tailwind CSS  
 - **Backend**: Python, FastAPI  
 - **AI**: Greq
 
 
-## Running the Project
+## Running the Project:
 **Frontend**
 ```bash
 cd frontend
